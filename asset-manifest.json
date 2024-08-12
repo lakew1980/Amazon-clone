@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Amazon-Project-2024/static/css/main.d7d586f5.css",
+    "main.js": "/Amazon-Project-2024/static/js/main.32f9ab49.js",
+    "static/media/10001.jpg": "/Amazon-Project-2024/static/media/10001.18485770895fcb59eb31.jpg",
+    "static/media/10003.jpg": "/Amazon-Project-2024/static/media/10003.27c155fd7c8324a258d7.jpg",
+    "static/media/10005.jpg": "/Amazon-Project-2024/static/media/10005.a30d2df6f712f4145c4b.jpg",
+    "static/media/10002.jpg": "/Amazon-Project-2024/static/media/10002.92135524cd1bacfeeff9.jpg",
+    "static/media/10004.jpg": "/Amazon-Project-2024/static/media/10004.6c6bbd553737b634bf71.jpg",
+    "index.html": "/Amazon-Project-2024/index.html",
+    "main.d7d586f5.css.map": "/Amazon-Project-2024/static/css/main.d7d586f5.css.map",
+    "main.32f9ab49.js.map": "/Amazon-Project-2024/static/js/main.32f9ab49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d586f5.css",
+    "static/js/main.32f9ab49.js"
+  ]
+}
