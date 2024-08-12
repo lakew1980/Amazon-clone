@@ -1,0 +1,33 @@
+[debug] [2024-08-12T01:52:36.887Z] ----------------------------------------------------------------------
+[debug] [2024-08-12T01:52:36.891Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lakew\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js emulators:start --only functions
+[debug] [2024-08-12T01:52:36.892Z] CLI Version:   13.14.1
+[debug] [2024-08-12T01:52:36.892Z] Platform:      win32
+[debug] [2024-08-12T01:52:36.892Z] Node Version:  v20.13.1
+[debug] [2024-08-12T01:52:36.892Z] Time:          Sun Aug 11 2024 21:52:36 GMT-0400 (Eastern Daylight Time)
+[debug] [2024-08-12T01:52:36.892Z] ----------------------------------------------------------------------
+[debug] 
+[warn] !  functions: The functions emulator is configured but there is no functions source directory. Have you run firebase init functions? {"metadata":{"emulator":{"name":"functions"},"message":"The functions emulator is configured but there is no functions source directory. Have you run \u001b[1mfirebase init functions\u001b[22m?"}}
+[debug] [2024-08-12T01:52:36.969Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-12T01:52:36.970Z] > authorizing via signed-in user (lakew1980@gmail.com)
+[warn] !  Could not find config (firebase.json) so using defaults. 
+[info] i  emulators: Starting emulators: functions {"metadata":{"emulator":{"name":"hub"},"message":"Starting emulators: functions"}}
+[debug] [2024-08-12T01:52:36.982Z] [logging] Logging Emulator only supports listening on one address (127.0.0.1). Not listening on ::1
+[debug] [2024-08-12T01:52:36.983Z] assigned listening specs for emulators {"user":{"logging":[{"address":"127.0.0.1","family":"IPv4","port":4500}]},"metadata":{"message":"assigned listening specs for emulators"}}
+[warn] !  functions: The functions emulator is configured but there is no functions source directory. Have you run firebase init functions? {"metadata":{"emulator":{"name":"functions"},"message":"The functions emulator is configured but there is no functions source directory. Have you run \u001b[1mfirebase init functions\u001b[22m?"}}
+[warn] !  emulators: The Emulator UI is not starting, either because none of the running emulators have a UI component or the Emulator UI cannot determine the Project ID. Pass the --project flag to specify a project. {"metadata":{"emulator":{"name":"hub"},"message":"The Emulator UI is not starting, either because none of the running emulators have a UI component or the Emulator UI cannot determine the Project ID. Pass the --project flag to specify a project."}}
+[info] 
+┌─────────────────────────────────────────────────────────────┐
+│ ✔  All emulators ready! It is now safe to connect your app. │
+└─────────────────────────────────────────────────────────────┘
+
+┌───────────┬──────────────────────────────────┐
+│ Emulator  │ Host:Port                        │
+├───────────┼──────────────────────────────────┤
+│ Functions │ Failed to initialize (see above) │
+└───────────┴──────────────────────────────────┘
+  Emulator Hub not running.
+  Other reserved ports: 4500
+
+Issues? Report them at https://github.com/firebase/firebase-tools/issues and attach the *-debug.log files.
+ 
+[debug] [2024-08-12T02:07:11.505Z] Received signal SIGHUP 1
